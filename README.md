@@ -3,8 +3,8 @@ Bot for internal using with useful functions
 
 Credits:
 ==
-Author: Shukrullo Turgunov
-Contact: (@Shukrullo)[https://t.me/Shukrullo]
+- Author: Shukrullo Turgunov
+- Contact: (@Shukrullo)[https://t.me/Shukrullo]
 
 How to run?
 ==
